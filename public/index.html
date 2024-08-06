@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PFX PDF Signer</title>
+</head>
+<body>
+    <h1>PFX PDF Signer</h1>
+    <form id="uploadForm">
+        <label for="pfxFile">PFX File:</label>
+        <input type="file" id="pfxFile" name="pfx"><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <button type="submit">Upload PFX</button>
+    </form>
+    <br>
+    <button id="generatePdfBtn">Generate and Sign PDF</button>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData();
+            formData.append('pfx', document.getElementById('pfxFile').files[0]);
+            formData.append('password', document.getElementById('password').value);
+
+            fetch('/upload-pfx', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+                alert(data);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+
+        document.getElementById('generatePdfBtn').addEventListener('click', function() {
+            fetch('/generate-pdf', {
+                method: 'POST'
+            })
+            .then(response => response.blob())
+            .then(blob => {
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.style.display = 'none';
+                a.href = url;
+                a.download = 'signed_output.pdf';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

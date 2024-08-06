@@ -1,0 +1,1102 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\@swc\\helpers\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\accepts\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\append-field\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\array-buffer-byte-length\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\array-buffer-byte-length\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\array-flatten\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\available-typed-arrays\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\available-typed-arrays\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\base64-js\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\body-parser\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\brotli\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\buffer-from\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\busboy\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\bytes\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\call-bind\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\clone\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\concat-stream\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\content-disposition\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\content-type\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\cookie\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\cookie-signature\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\core-util-is\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\crypto-js\\bower.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\crypto-js\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\debug\\component.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\debug\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\deep-equal\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\define-data-property\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\define-data-property\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\define-properties\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\depd\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\destroy\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\dfa\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\ee-first\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\encodeurl\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\es-define-property\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\es-define-property\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\es-errors\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\es-errors\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\es-get-iterator\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\escape-html\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\etag\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\express\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\finalhandler\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\fontkit\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\fontkit\\src\\opentype\\shapers\\indic.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\fontkit\\src\\opentype\\shapers\\use.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\for-each\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\forwarded\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\fresh\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\function-bind\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\functions-have-names\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\get-intrinsic\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\gopd\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-bigints\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-property-descriptors\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-proto\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-proto\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-symbols\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-tostringtag\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\has-tostringtag\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\hasown\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\hasown\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\http-errors\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\big5-added.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\cp936.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\cp949.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\cp950.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\eucjp.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\gb18030-ranges.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\gbk-added.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\encodings\\tables\\shiftjis.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\iconv-lite\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\inherits\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\internal-slot\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\ipaddr.js\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-arguments\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-array-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-array-buffer\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-bigint\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-boolean-object\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-callable\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-date-object\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-map\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-map\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-number-object\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-regex\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-set\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-set\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-shared-array-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-shared-array-buffer\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-string\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-symbol\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-weakmap\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-weakmap\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-weakset\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\is-weakset\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\isarray\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\jpeg-exif\\lib\\plus.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\jpeg-exif\\lib\\tags.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\jpeg-exif\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\jpeg-exif\\src\\plus.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\jpeg-exif\\src\\tags.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\linebreak\\node_modules\\base64-js\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\linebreak\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\media-typer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\merge-descriptors\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\methods\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mime\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mime\\types.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mime-db\\db.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mime-db\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mime-types\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\minimist\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\mkdirp\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\ms\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\multer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\negotiator\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\node-forge\\flash\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\node-forge\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object-assign\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object-inspect\\package-support.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object-inspect\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object-is\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object-keys\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\object.assign\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\on-finished\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\pako\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\parseurl\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\path-to-regexp\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\pdfkit\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\png-js\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\possible-typed-array-names\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\possible-typed-array-names\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\process-nextick-args\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\proxy-addr\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\qs\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\range-parser\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\raw-body\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\readable-stream\\node_modules\\isarray\\component.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\readable-stream\\node_modules\\isarray\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\readable-stream\\node_modules\\safe-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\readable-stream\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\regexp.prototype.flags\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\restructure\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\safe-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\safer-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\send\\node_modules\\ms\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\send\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\serve-static\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\set-function-length\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\set-function-length\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\set-function-name\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\set-function-name\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\setprototypeof\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\side-channel\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\side-channel\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\statuses\\codes.json"
+            ],
+            "url": "http://localhost:51012/Attribute"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\statuses\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\stop-iteration-iterator\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\streamsearch\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\string_decoder\\node_modules\\safe-buffer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\string_decoder\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\tiny-inflate\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\toidentifier\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\tslib\\modules\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\tslib\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\type-is\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\typedarray\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\unicode-properties\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\unicode-trie\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\unpipe\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\util-deprecate\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\utils-merge\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\vary\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\which-boxed-primitive\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\which-collection\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\which-collection\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\which-typed-array\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\which-typed-array\\tsconfig.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\node_modules\\xtend\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\package-lock.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        },
+        {
+            "fileMatch": [
+                "d:\\Practice\\Node\\pfx-pdf-signer\\package.json"
+            ],
+            "url": "http://localhost:51012/Entity"
+        }
+    ]
+}
